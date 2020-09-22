@@ -1,6 +1,6 @@
 require 'pry'
 
-def using_concat(@my_favorite_things, more_favs)
+def using_concat(my_favorite_things, more_favs)
   count = 0 
   @all_my_favs = []
   
