@@ -20,8 +20,10 @@ def using_uniq(haircuts)
   
 end
 
-def using_flatten
+def using_flatten(instruments)
+  flat_array = []
   
+  flat_array = instruments
 end
 
 describe "using_flatten" do 
