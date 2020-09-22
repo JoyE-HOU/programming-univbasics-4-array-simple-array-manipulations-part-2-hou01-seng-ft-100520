@@ -33,3 +33,5 @@ def using_delete_at
     famous_robots.delete_at(2)
 
   deleted_robot = famous_robots.delete
+  
+end
