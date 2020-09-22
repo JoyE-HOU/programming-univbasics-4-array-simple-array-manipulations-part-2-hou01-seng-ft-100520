@@ -4,7 +4,7 @@ def using_concat(my_favorite_things, more_favs)
   count = 0 
   all_my_favs = []
   
-  while do
+  while count do
 end
 describe "using_concat" do 
   before(:each) do 
